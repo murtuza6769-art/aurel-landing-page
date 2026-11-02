@@ -2,7 +2,7 @@
 
 Landing page for AUREL, a luxury travel house. Plain HTML, CSS and JavaScript with GSAP, ScrollTrigger and Lenis for the scroll animations. Built for desktop.
 
-Live site: https://murtuza6769-art.github.io/aurel-landing-page/
+Live site: https://aurel-landing-page.vercel.app (Vercel) · https://murtuza6769-art.github.io/aurel-landing-page/ (GitHub Pages)
 
 ## Run it locally
 

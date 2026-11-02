@@ -1,0 +1,6 @@
+.claude
+.taste-skill
+*.zip
+.git
+.vercel
+.env*

@@ -1,3 +1,5 @@
 .claude/
 .taste-skill/
 *.zip
+.vercel
+.env*
